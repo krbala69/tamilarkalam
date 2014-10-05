@@ -4,12 +4,12 @@
 	id        = "com.omtamil.demoapp"
 	versionCode="1"
 	version   = "1.0">
-<name>OMTAMIL DEMO APP</name>
+<name>BALAMURUKAN APP</name>
 <description>
-A Demo App for Mobile Development Workshop</description>
-<author href="omtamil.com" 
-email="muhelen@omtamil.com">
-MUHELEN MURUGAN
+MY FIRST MOBILE PROJECT</description>
+<author href="Tamilarkalam.org" 
+email="krbala69@yahoo.com">
+BALAMURUKAN
 </author>
 	
 	<!-- Define app icon MAIN ROOT Platform. -->
